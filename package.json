@@ -1,0 +1,22 @@
+{
+  "name": "semantic_ui_workshop",
+  "version": "1.0.0",
+  "description": "semantic ui workshop base files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoKirch/semantic_ui_workshop.git"
+  },
+  "author": "Hugo Kirch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HugoKirch/semantic_ui_workshop/issues"
+  },
+  "homepage": "https://github.com/HugoKirch/semantic_ui_workshop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
